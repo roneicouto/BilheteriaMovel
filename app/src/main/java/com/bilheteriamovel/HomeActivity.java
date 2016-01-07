@@ -28,6 +28,7 @@ public class HomeActivity extends AppCompatActivity {
         finish();
     }
 
+
     public void irAListaEventos(View view) {
         startActivity(new Intent(this, ListEventosActivity.class));
         finish();
@@ -37,4 +38,5 @@ public class HomeActivity extends AppCompatActivity {
         startActivity(new Intent(this, CadEventoActivity.class));
         //finish();
     }
+
 }

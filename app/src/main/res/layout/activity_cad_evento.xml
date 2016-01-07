@@ -27,16 +27,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="text"/>
-
-        <TextView
-            style="@style/NomeDosCampos"
-            android:text="@string/evento_lbRestoBilhetes"/>
-
-        <EditText
-            android:id="@+id/evento_edtRestickets"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:inputType="text"/>
+        
 
     </LinearLayout>
 

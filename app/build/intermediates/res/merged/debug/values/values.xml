@@ -299,7 +299,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_cad_usuario">Cadastro de Usuários</string>
     <string name="title_activity_home">Passe Certo</string>
-    <string name="title_activity_login">Faça o Login ou registre-se</string>
+    <string name="title_activity_login">Passe Certo</string>
     <string name="usuarios">Usuários</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

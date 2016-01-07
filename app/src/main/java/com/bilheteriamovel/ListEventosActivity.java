@@ -37,7 +37,7 @@ public class ListEventosActivity extends AppCompatActivity implements
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_list_usuarios);
+        setContentView(R.layout.activity_list_eventos);
 
         alertDialog      = Mensagem.criarAlertDialog(this);
         alertConfirmacao = Mensagem.criarDialogConfirmacao(this);
@@ -78,7 +78,7 @@ public class ListEventosActivity extends AppCompatActivity implements
 
         switch (which){
             case 0:
-                eventoDAO.removerEvento(id);
+                eventoDAO.buscarEventoPorId(id);
                 Intent intent = new Intent(this, CadEventoActivity.class);
                 intent.putExtra("EVENTO_ID", id);
                 startActivity(intent);

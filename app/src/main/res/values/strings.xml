@@ -13,7 +13,7 @@
 
 
     <!-- Tela de Login e Cadastros-->
-    <string name="title_activity_login">Faça o Login ou registre-se</string>
+    <string name="title_activity_login">Passe Certo</string>
     <string name="login_txtUser">Usuário:</string>
     <string name="login_txtPassw">Senha:</string>
     <string name="login_txtEmail">E-mail:</string>

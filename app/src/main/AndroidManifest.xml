@@ -28,13 +28,16 @@
             android:name=".HomeActivity"
             android:label="@string/title_activity_home">
         </activity>
+
         <activity android:name=".ListEventosActivity"
             android:label="Lista de Eventos">
->
         </activity>
+
         <activity android:name=".ListUsuariosActivity"
-            android:label="Lista de Usuários"> </activity>
+            android:label="Lista de Usuários">
+        </activity>
         <activity android:name=".CadUsuarioActivity"></activity>
+
         <activity android:name=".CadEventoActivity"></activity>
 
     </application>

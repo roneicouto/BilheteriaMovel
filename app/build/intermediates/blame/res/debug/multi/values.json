@@ -2327,14 +2327,7 @@
                     "endOffset": 35664
                 },
                 "from": {
-                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 39,
-                        "startColumn": 4,
-                        "startOffset": 1730,
-                        "endColumn": 58,
-                        "endOffset": 1784
-                    }
+                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -2346,14 +2339,7 @@
                     "endOffset": 35741
                 },
                 "from": {
-                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 41,
-                        "startColumn": 4,
-                        "startOffset": 1865,
-                        "endColumn": 76,
-                        "endOffset": 1937
-                    }
+                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -2365,14 +2351,7 @@
                     "endOffset": 35817
                 },
                 "from": {
-                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 40,
-                        "startColumn": 4,
-                        "startOffset": 1789,
-                        "endColumn": 75,
-                        "endOffset": 1860
-                    }
+                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -2840,14 +2819,7 @@
                     "endOffset": 38375
                 },
                 "from": {
-                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 4,
-                        "startOffset": 1573,
-                        "endColumn": 63,
-                        "endOffset": 1632
-                    }
+                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -2859,14 +2831,7 @@
                     "endOffset": 38425
                 },
                 "from": {
-                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 1523,
-                        "endColumn": 49,
-                        "endOffset": 1568
-                    }
+                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -2878,14 +2843,7 @@
                     "endOffset": 38496
                 },
                 "from": {
-                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 1637,
-                        "endColumn": 70,
-                        "endOffset": 1703
-                    }
+                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -3121,20 +3079,27 @@
                     "startLine": 301,
                     "startColumn": 4,
                     "startOffset": 39614,
-                    "endColumn": 76,
-                    "endOffset": 39686
+                    "endColumn": 60,
+                    "endOffset": 39670
                 },
                 "from": {
-                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml"
+                    "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 60,
+                        "endOffset": 571
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 39691,
+                    "startOffset": 39675,
                     "endColumn": 45,
-                    "endOffset": 39732
+                    "endOffset": 39716
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/strings.xml"
@@ -3144,9 +3109,9 @@
                 "to": {
                     "startLine": 303,
                     "startColumn": 4,
-                    "startOffset": 39737,
+                    "startOffset": 39721,
                     "endColumn": 77,
-                    "endOffset": 39810
+                    "endOffset": 39794
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3156,9 +3121,9 @@
                 "to": {
                     "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 39815,
+                    "startOffset": 39799,
                     "endColumn": 89,
-                    "endOffset": 39900
+                    "endOffset": 39884
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3168,9 +3133,9 @@
                 "to": {
                     "startLine": 305,
                     "startColumn": 4,
-                    "startOffset": 39905,
+                    "startOffset": 39889,
                     "endColumn": 87,
-                    "endOffset": 39988
+                    "endOffset": 39972
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3180,9 +3145,9 @@
                 "to": {
                     "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 39993,
+                    "startOffset": 39977,
                     "endColumn": 95,
-                    "endOffset": 40084
+                    "endOffset": 40068
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3192,10 +3157,10 @@
                 "to": {
                     "startLine": 307,
                     "startColumn": 4,
-                    "startOffset": 40089,
+                    "startOffset": 40073,
                     "endLine": 310,
                     "endColumn": 12,
-                    "endOffset": 40229
+                    "endOffset": 40213
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/styles.xml"
@@ -3205,10 +3170,10 @@
                 "to": {
                     "startLine": 311,
                     "startColumn": 4,
-                    "startOffset": 40234,
+                    "startOffset": 40218,
                     "endLine": 316,
                     "endColumn": 12,
-                    "endOffset": 40548
+                    "endOffset": 40532
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/styles.xml"
@@ -3218,9 +3183,9 @@
                 "to": {
                     "startLine": 317,
                     "startColumn": 4,
-                    "startOffset": 40553,
+                    "startOffset": 40537,
                     "endColumn": 89,
-                    "endOffset": 40638
+                    "endOffset": 40622
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/styles.xml"
@@ -3230,10 +3195,10 @@
                 "to": {
                     "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 40643,
+                    "startOffset": 40627,
                     "endLine": 321,
                     "endColumn": 12,
-                    "endOffset": 40788
+                    "endOffset": 40772
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/styles.xml"
@@ -3243,9 +3208,9 @@
                 "to": {
                     "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 40793,
+                    "startOffset": 40777,
                     "endColumn": 79,
-                    "endOffset": 40868
+                    "endOffset": 40852
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/styles.xml"
@@ -3255,10 +3220,10 @@
                 "to": {
                     "startLine": 323,
                     "startColumn": 4,
-                    "startOffset": 40873,
+                    "startOffset": 40857,
                     "endLine": 329,
                     "endColumn": 12,
-                    "endOffset": 41369
+                    "endOffset": 41353
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3268,9 +3233,9 @@
                 "to": {
                     "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 41374,
+                    "startOffset": 41358,
                     "endColumn": 88,
-                    "endOffset": 41458
+                    "endOffset": 41442
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3280,10 +3245,10 @@
                 "to": {
                     "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 41463,
+                    "startOffset": 41447,
                     "endLine": 334,
                     "endColumn": 12,
-                    "endOffset": 41705
+                    "endOffset": 41689
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3293,10 +3258,10 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 41710,
+                    "startOffset": 41694,
                     "endLine": 338,
                     "endColumn": 12,
-                    "endOffset": 41986
+                    "endOffset": 41970
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3306,10 +3271,10 @@
                 "to": {
                     "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 41991,
+                    "startOffset": 41975,
                     "endLine": 343,
                     "endColumn": 12,
-                    "endOffset": 42271
+                    "endOffset": 42255
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3319,10 +3284,10 @@
                 "to": {
                     "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 42276,
+                    "startOffset": 42260,
                     "endLine": 349,
                     "endColumn": 12,
-                    "endOffset": 42664
+                    "endOffset": 42648
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3332,10 +3297,10 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 42669,
+                    "startOffset": 42653,
                     "endLine": 356,
                     "endColumn": 12,
-                    "endOffset": 43141
+                    "endOffset": 43125
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3345,10 +3310,10 @@
                 "to": {
                     "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 43146,
+                    "startOffset": 43130,
                     "endLine": 360,
                     "endColumn": 12,
-                    "endOffset": 43363
+                    "endOffset": 43347
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3358,10 +3323,10 @@
                 "to": {
                     "startLine": 361,
                     "startColumn": 4,
-                    "startOffset": 43368,
+                    "startOffset": 43352,
                     "endLine": 364,
                     "endColumn": 12,
-                    "endOffset": 43585
+                    "endOffset": 43569
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3371,10 +3336,10 @@
                 "to": {
                     "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 43590,
+                    "startOffset": 43574,
                     "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 43853
+                    "endOffset": 43837
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3384,10 +3349,10 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 43858,
+                    "startOffset": 43842,
                     "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 44080
+                    "endOffset": 44064
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3397,10 +3362,10 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 44085,
+                    "startOffset": 44069,
                     "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 44310
+                    "endOffset": 44294
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3410,10 +3375,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 44315,
+                    "startOffset": 44299,
                     "endLine": 381,
                     "endColumn": 12,
-                    "endOffset": 44540
+                    "endOffset": 44524
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3423,10 +3388,10 @@
                 "to": {
                     "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 44545,
+                    "startOffset": 44529,
                     "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 44770
+                    "endOffset": 44754
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3436,10 +3401,10 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 44775,
+                    "startOffset": 44759,
                     "endLine": 389,
                     "endColumn": 12,
-                    "endOffset": 45000
+                    "endOffset": 44984
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3449,10 +3414,10 @@
                 "to": {
                     "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 45005,
+                    "startOffset": 44989,
                     "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 45227
+                    "endOffset": 45211
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3462,10 +3427,10 @@
                 "to": {
                     "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 45232,
+                    "startOffset": 45216,
                     "endLine": 397,
                     "endColumn": 12,
-                    "endOffset": 45466
+                    "endOffset": 45450
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3475,10 +3440,10 @@
                 "to": {
                     "startLine": 398,
                     "startColumn": 4,
-                    "startOffset": 45471,
+                    "startOffset": 45455,
                     "endLine": 401,
                     "endColumn": 12,
-                    "endOffset": 45692
+                    "endOffset": 45676
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3488,10 +3453,10 @@
                 "to": {
                     "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 45697,
+                    "startOffset": 45681,
                     "endLine": 405,
                     "endColumn": 12,
-                    "endOffset": 45937
+                    "endOffset": 45921
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3501,10 +3466,10 @@
                 "to": {
                     "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 45942,
+                    "startOffset": 45926,
                     "endLine": 407,
                     "endColumn": 12,
-                    "endOffset": 46067
+                    "endOffset": 46051
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3514,10 +3479,10 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 46072,
+                    "startOffset": 46056,
                     "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 46197
+                    "endOffset": 46181
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3527,10 +3492,10 @@
                 "to": {
                     "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 46202,
+                    "startOffset": 46186,
                     "endLine": 413,
                     "endColumn": 12,
-                    "endOffset": 46427
+                    "endOffset": 46411
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3540,10 +3505,10 @@
                 "to": {
                     "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 46432,
+                    "startOffset": 46416,
                     "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 46675
+                    "endOffset": 46659
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3553,10 +3518,10 @@
                 "to": {
                     "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 46680,
+                    "startOffset": 46664,
                     "endLine": 421,
                     "endColumn": 12,
-                    "endOffset": 46894
+                    "endOffset": 46878
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3566,10 +3531,10 @@
                 "to": {
                     "startLine": 422,
                     "startColumn": 4,
-                    "startOffset": 46899,
+                    "startOffset": 46883,
                     "endLine": 426,
                     "endColumn": 12,
-                    "endOffset": 47177
+                    "endOffset": 47161
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3579,10 +3544,10 @@
                 "to": {
                     "startLine": 427,
                     "startColumn": 4,
-                    "startOffset": 47182,
+                    "startOffset": 47166,
                     "endLine": 430,
                     "endColumn": 12,
-                    "endOffset": 47385
+                    "endOffset": 47369
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3592,10 +3557,10 @@
                 "to": {
                     "startLine": 431,
                     "startColumn": 4,
-                    "startOffset": 47390,
+                    "startOffset": 47374,
                     "endLine": 433,
                     "endColumn": 12,
-                    "endOffset": 47516
+                    "endOffset": 47500
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3605,10 +3570,10 @@
                 "to": {
                     "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 47521,
+                    "startOffset": 47505,
                     "endLine": 437,
                     "endColumn": 12,
-                    "endOffset": 47743
+                    "endOffset": 47727
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3618,10 +3583,10 @@
                 "to": {
                     "startLine": 438,
                     "startColumn": 4,
-                    "startOffset": 47748,
+                    "startOffset": 47732,
                     "endLine": 441,
                     "endColumn": 12,
-                    "endOffset": 47989
+                    "endOffset": 47973
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3631,10 +3596,10 @@
                 "to": {
                     "startLine": 442,
                     "startColumn": 4,
-                    "startOffset": 47994,
+                    "startOffset": 47978,
                     "endLine": 445,
                     "endColumn": 12,
-                    "endOffset": 48214
+                    "endOffset": 48198
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3644,10 +3609,10 @@
                 "to": {
                     "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 48219,
+                    "startOffset": 48203,
                     "endLine": 449,
                     "endColumn": 12,
-                    "endOffset": 48461
+                    "endOffset": 48445
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3657,10 +3622,10 @@
                 "to": {
                     "startLine": 450,
                     "startColumn": 4,
-                    "startOffset": 48466,
+                    "startOffset": 48450,
                     "endLine": 453,
                     "endColumn": 12,
-                    "endOffset": 48682
+                    "endOffset": 48666
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3670,10 +3635,10 @@
                 "to": {
                     "startLine": 454,
                     "startColumn": 4,
-                    "startOffset": 48687,
+                    "startOffset": 48671,
                     "endLine": 457,
                     "endColumn": 12,
-                    "endOffset": 48927
+                    "endOffset": 48911
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3683,10 +3648,10 @@
                 "to": {
                     "startLine": 458,
                     "startColumn": 4,
-                    "startOffset": 48932,
+                    "startOffset": 48916,
                     "endLine": 461,
                     "endColumn": 12,
-                    "endOffset": 49201
+                    "endOffset": 49185
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3696,10 +3661,10 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 49206,
+                    "startOffset": 49190,
                     "endLine": 465,
                     "endColumn": 12,
-                    "endOffset": 49502
+                    "endOffset": 49486
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3709,10 +3674,10 @@
                 "to": {
                     "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 49507,
+                    "startOffset": 49491,
                     "endLine": 469,
                     "endColumn": 12,
-                    "endOffset": 49826
+                    "endOffset": 49810
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3722,10 +3687,10 @@
                 "to": {
                     "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 49831,
+                    "startOffset": 49815,
                     "endLine": 473,
                     "endColumn": 12,
-                    "endOffset": 50117
+                    "endOffset": 50101
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3735,10 +3700,10 @@
                 "to": {
                     "startLine": 474,
                     "startColumn": 4,
-                    "startOffset": 50122,
+                    "startOffset": 50106,
                     "endLine": 477,
                     "endColumn": 12,
-                    "endOffset": 50431
+                    "endOffset": 50415
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3748,9 +3713,9 @@
                 "to": {
                     "startLine": 478,
                     "startColumn": 4,
-                    "startOffset": 50436,
+                    "startOffset": 50420,
                     "endColumn": 136,
-                    "endOffset": 50568
+                    "endOffset": 50552
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3760,9 +3725,9 @@
                 "to": {
                     "startLine": 479,
                     "startColumn": 4,
-                    "startOffset": 50573,
+                    "startOffset": 50557,
                     "endColumn": 130,
-                    "endOffset": 50699
+                    "endOffset": 50683
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3772,9 +3737,9 @@
                 "to": {
                     "startLine": 480,
                     "startColumn": 4,
-                    "startOffset": 50704,
+                    "startOffset": 50688,
                     "endColumn": 104,
-                    "endOffset": 50804
+                    "endOffset": 50788
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3784,10 +3749,10 @@
                 "to": {
                     "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 50809,
+                    "startOffset": 50793,
                     "endLine": 483,
                     "endColumn": 12,
-                    "endOffset": 51008
+                    "endOffset": 50992
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3797,10 +3762,10 @@
                 "to": {
                     "startLine": 484,
                     "startColumn": 4,
-                    "startOffset": 51013,
+                    "startOffset": 50997,
                     "endLine": 486,
                     "endColumn": 12,
-                    "endOffset": 51216
+                    "endOffset": 51200
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3810,10 +3775,10 @@
                 "to": {
                     "startLine": 487,
                     "startColumn": 4,
-                    "startOffset": 51221,
+                    "startOffset": 51205,
                     "endLine": 488,
                     "endColumn": 12,
-                    "endOffset": 51340
+                    "endOffset": 51324
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3823,10 +3788,10 @@
                 "to": {
                     "startLine": 489,
                     "startColumn": 4,
-                    "startOffset": 51345,
+                    "startOffset": 51329,
                     "endLine": 490,
                     "endColumn": 12,
-                    "endOffset": 51464
+                    "endOffset": 51448
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3836,9 +3801,9 @@
                 "to": {
                     "startLine": 491,
                     "startColumn": 4,
-                    "startOffset": 51469,
+                    "startOffset": 51453,
                     "endColumn": 104,
-                    "endOffset": 51569
+                    "endOffset": 51553
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3848,9 +3813,9 @@
                 "to": {
                     "startLine": 492,
                     "startColumn": 4,
-                    "startOffset": 51574,
+                    "startOffset": 51558,
                     "endColumn": 116,
-                    "endOffset": 51686
+                    "endOffset": 51670
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3860,10 +3825,10 @@
                 "to": {
                     "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 51691,
+                    "startOffset": 51675,
                     "endLine": 495,
                     "endColumn": 12,
-                    "endOffset": 51900
+                    "endOffset": 51884
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3873,10 +3838,10 @@
                 "to": {
                     "startLine": 496,
                     "startColumn": 4,
-                    "startOffset": 51905,
+                    "startOffset": 51889,
                     "endLine": 497,
                     "endColumn": 12,
-                    "endOffset": 52046
+                    "endOffset": 52030
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3886,10 +3851,10 @@
                 "to": {
                     "startLine": 498,
                     "startColumn": 4,
-                    "startOffset": 52051,
+                    "startOffset": 52035,
                     "endLine": 499,
                     "endColumn": 12,
-                    "endOffset": 52186
+                    "endOffset": 52170
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3899,10 +3864,10 @@
                 "to": {
                     "startLine": 500,
                     "startColumn": 4,
-                    "startOffset": 52191,
+                    "startOffset": 52175,
                     "endLine": 501,
                     "endColumn": 12,
-                    "endOffset": 52272
+                    "endOffset": 52256
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3912,10 +3877,10 @@
                 "to": {
                     "startLine": 502,
                     "startColumn": 4,
-                    "startOffset": 52277,
+                    "startOffset": 52261,
                     "endLine": 506,
                     "endColumn": 12,
-                    "endOffset": 52620
+                    "endOffset": 52604
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3925,9 +3890,9 @@
                 "to": {
                     "startLine": 507,
                     "startColumn": 4,
-                    "startOffset": 52625,
+                    "startOffset": 52609,
                     "endColumn": 87,
-                    "endOffset": 52708
+                    "endOffset": 52692
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3937,10 +3902,10 @@
                 "to": {
                     "startLine": 508,
                     "startColumn": 4,
-                    "startOffset": 52713,
+                    "startOffset": 52697,
                     "endLine": 511,
                     "endColumn": 12,
-                    "endOffset": 52938
+                    "endOffset": 52922
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3950,10 +3915,10 @@
                 "to": {
                     "startLine": 512,
                     "startColumn": 4,
-                    "startOffset": 52943,
+                    "startOffset": 52927,
                     "endLine": 517,
                     "endColumn": 12,
-                    "endOffset": 53356
+                    "endOffset": 53340
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3963,10 +3928,10 @@
                 "to": {
                     "startLine": 518,
                     "startColumn": 4,
-                    "startOffset": 53361,
+                    "startOffset": 53345,
                     "endLine": 521,
                     "endColumn": 12,
-                    "endOffset": 53589
+                    "endOffset": 53573
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3976,9 +3941,9 @@
                 "to": {
                     "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 53594,
+                    "startOffset": 53578,
                     "endColumn": 81,
-                    "endOffset": 53671
+                    "endOffset": 53655
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -3988,10 +3953,10 @@
                 "to": {
                     "startLine": 523,
                     "startColumn": 4,
-                    "startOffset": 53676,
+                    "startOffset": 53660,
                     "endLine": 524,
                     "endColumn": 12,
-                    "endOffset": 53769
+                    "endOffset": 53753
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4001,10 +3966,10 @@
                 "to": {
                     "startLine": 525,
                     "startColumn": 4,
-                    "startOffset": 53774,
+                    "startOffset": 53758,
                     "endLine": 535,
                     "endColumn": 12,
-                    "endOffset": 54386
+                    "endOffset": 54370
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4014,9 +3979,9 @@
                 "to": {
                     "startLine": 536,
                     "startColumn": 4,
-                    "startOffset": 54391,
+                    "startOffset": 54375,
                     "endColumn": 99,
-                    "endOffset": 54486
+                    "endOffset": 54470
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4026,10 +3991,10 @@
                 "to": {
                     "startLine": 537,
                     "startColumn": 4,
-                    "startOffset": 54491,
+                    "startOffset": 54475,
                     "endLine": 540,
                     "endColumn": 12,
-                    "endOffset": 54722
+                    "endOffset": 54706
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4039,10 +4004,10 @@
                 "to": {
                     "startLine": 541,
                     "startColumn": 4,
-                    "startOffset": 54727,
+                    "startOffset": 54711,
                     "endLine": 546,
                     "endColumn": 12,
-                    "endOffset": 55146
+                    "endOffset": 55130
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4052,10 +4017,10 @@
                 "to": {
                     "startLine": 547,
                     "startColumn": 4,
-                    "startOffset": 55151,
+                    "startOffset": 55135,
                     "endLine": 550,
                     "endColumn": 12,
-                    "endOffset": 55385
+                    "endOffset": 55369
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4065,9 +4030,9 @@
                 "to": {
                     "startLine": 551,
                     "startColumn": 4,
-                    "startOffset": 55390,
+                    "startOffset": 55374,
                     "endColumn": 93,
-                    "endOffset": 55479
+                    "endOffset": 55463
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4077,9 +4042,9 @@
                 "to": {
                     "startLine": 552,
                     "startColumn": 4,
-                    "startOffset": 55484,
+                    "startOffset": 55468,
                     "endColumn": 88,
-                    "endOffset": 55568
+                    "endOffset": 55552
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4089,10 +4054,10 @@
                 "to": {
                     "startLine": 553,
                     "startColumn": 4,
-                    "startOffset": 55573,
+                    "startOffset": 55557,
                     "endLine": 556,
                     "endColumn": 12,
-                    "endOffset": 55805
+                    "endOffset": 55789
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4102,10 +4067,10 @@
                 "to": {
                     "startLine": 557,
                     "startColumn": 4,
-                    "startOffset": 55810,
+                    "startOffset": 55794,
                     "endLine": 582,
                     "endColumn": 12,
-                    "endOffset": 57756
+                    "endOffset": 57740
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4115,10 +4080,10 @@
                 "to": {
                     "startLine": 583,
                     "startColumn": 4,
-                    "startOffset": 57761,
+                    "startOffset": 57745,
                     "endLine": 586,
                     "endColumn": 12,
-                    "endOffset": 57998
+                    "endOffset": 57982
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4128,10 +4093,10 @@
                 "to": {
                     "startLine": 587,
                     "startColumn": 4,
-                    "startOffset": 58003,
+                    "startOffset": 57987,
                     "endLine": 613,
                     "endColumn": 12,
-                    "endOffset": 60080
+                    "endOffset": 60064
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4141,10 +4106,10 @@
                 "to": {
                     "startLine": 614,
                     "startColumn": 4,
-                    "startOffset": 60085,
+                    "startOffset": 60069,
                     "endLine": 766,
                     "endColumn": 12,
-                    "endOffset": 69762
+                    "endOffset": 69746
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4154,10 +4119,10 @@
                 "to": {
                     "startLine": 767,
                     "startColumn": 4,
-                    "startOffset": 69767,
+                    "startOffset": 69751,
                     "endLine": 788,
                     "endColumn": 12,
-                    "endOffset": 71029
+                    "endOffset": 71013
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4167,10 +4132,10 @@
                 "to": {
                     "startLine": 789,
                     "startColumn": 4,
-                    "startOffset": 71034,
+                    "startOffset": 71018,
                     "endLine": 941,
                     "endColumn": 12,
-                    "endOffset": 80821
+                    "endOffset": 80805
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4180,10 +4145,10 @@
                 "to": {
                     "startLine": 942,
                     "startColumn": 4,
-                    "startOffset": 80826,
+                    "startOffset": 80810,
                     "endLine": 963,
                     "endColumn": 12,
-                    "endOffset": 82102
+                    "endOffset": 82086
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4193,10 +4158,10 @@
                 "to": {
                     "startLine": 964,
                     "startColumn": 4,
-                    "startOffset": 82107,
+                    "startOffset": 82091,
                     "endLine": 970,
                     "endColumn": 12,
-                    "endOffset": 82638
+                    "endOffset": 82622
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4206,10 +4171,10 @@
                 "to": {
                     "startLine": 971,
                     "startColumn": 4,
-                    "startOffset": 82643,
+                    "startOffset": 82627,
                     "endLine": 975,
                     "endColumn": 12,
-                    "endOffset": 82968
+                    "endOffset": 82952
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4219,10 +4184,10 @@
                 "to": {
                     "startLine": 976,
                     "startColumn": 4,
-                    "startOffset": 82973,
+                    "startOffset": 82957,
                     "endLine": 996,
                     "endColumn": 12,
-                    "endOffset": 84091
+                    "endOffset": 84075
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4232,10 +4197,10 @@
                 "to": {
                     "startLine": 997,
                     "startColumn": 4,
-                    "startOffset": 84096,
+                    "startOffset": 84080,
                     "endLine": 1001,
                     "endColumn": 12,
-                    "endOffset": 84347
+                    "endOffset": 84331
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4245,10 +4210,10 @@
                 "to": {
                     "startLine": 1002,
                     "startColumn": 4,
-                    "startOffset": 84352,
+                    "startOffset": 84336,
                     "endLine": 1006,
                     "endColumn": 12,
-                    "endOffset": 84583
+                    "endOffset": 84567
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4258,10 +4223,10 @@
                 "to": {
                     "startLine": 1007,
                     "startColumn": 4,
-                    "startOffset": 84588,
+                    "startOffset": 84572,
                     "endLine": 1016,
                     "endColumn": 12,
-                    "endOffset": 85130
+                    "endOffset": 85114
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4271,10 +4236,10 @@
                 "to": {
                     "startLine": 1017,
                     "startColumn": 4,
-                    "startOffset": 85135,
+                    "startOffset": 85119,
                     "endLine": 1025,
                     "endColumn": 12,
-                    "endOffset": 85624
+                    "endOffset": 85608
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4284,10 +4249,10 @@
                 "to": {
                     "startLine": 1026,
                     "startColumn": 4,
-                    "startOffset": 85629,
+                    "startOffset": 85613,
                     "endLine": 1034,
                     "endColumn": 12,
-                    "endOffset": 86229
+                    "endOffset": 86213
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4297,10 +4262,10 @@
                 "to": {
                     "startLine": 1035,
                     "startColumn": 4,
-                    "startOffset": 86234,
+                    "startOffset": 86218,
                     "endLine": 1037,
                     "endColumn": 12,
-                    "endOffset": 86377
+                    "endOffset": 86361
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4310,10 +4275,10 @@
                 "to": {
                     "startLine": 1038,
                     "startColumn": 4,
-                    "startOffset": 86382,
+                    "startOffset": 86366,
                     "endLine": 1044,
                     "endColumn": 12,
-                    "endOffset": 86965
+                    "endOffset": 86949
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4323,10 +4288,10 @@
                 "to": {
                     "startLine": 1045,
                     "startColumn": 4,
-                    "startOffset": 86970,
+                    "startOffset": 86954,
                     "endLine": 1052,
                     "endColumn": 12,
-                    "endOffset": 87529
+                    "endOffset": 87513
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4336,10 +4301,10 @@
                 "to": {
                     "startLine": 1053,
                     "startColumn": 4,
-                    "startOffset": 87534,
+                    "startOffset": 87518,
                     "endLine": 1059,
                     "endColumn": 12,
-                    "endOffset": 87904
+                    "endOffset": 87888
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4349,9 +4314,9 @@
                 "to": {
                     "startLine": 1060,
                     "startColumn": 4,
-                    "startOffset": 87909,
+                    "startOffset": 87893,
                     "endColumn": 117,
-                    "endOffset": 88022
+                    "endOffset": 88006
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4361,10 +4326,10 @@
                 "to": {
                     "startLine": 1061,
                     "startColumn": 4,
-                    "startOffset": 88027,
+                    "startOffset": 88011,
                     "endLine": 1069,
                     "endColumn": 12,
-                    "endOffset": 88560
+                    "endOffset": 88544
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4374,10 +4339,10 @@
                 "to": {
                     "startLine": 1070,
                     "startColumn": 4,
-                    "startOffset": 88565,
+                    "startOffset": 88549,
                     "endLine": 1072,
                     "endColumn": 12,
-                    "endOffset": 88717
+                    "endOffset": 88701
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4387,10 +4352,10 @@
                 "to": {
                     "startLine": 1073,
                     "startColumn": 4,
-                    "startOffset": 88722,
+                    "startOffset": 88706,
                     "endLine": 1075,
                     "endColumn": 12,
-                    "endOffset": 88861
+                    "endOffset": 88845
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4400,10 +4365,10 @@
                 "to": {
                     "startLine": 1076,
                     "startColumn": 4,
-                    "startOffset": 88866,
+                    "startOffset": 88850,
                     "endLine": 1080,
                     "endColumn": 12,
-                    "endOffset": 89181
+                    "endOffset": 89165
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4413,10 +4378,10 @@
                 "to": {
                     "startLine": 1081,
                     "startColumn": 4,
-                    "startOffset": 89186,
+                    "startOffset": 89170,
                     "endLine": 1084,
                     "endColumn": 12,
-                    "endOffset": 89437
+                    "endOffset": 89421
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4426,10 +4391,10 @@
                 "to": {
                     "startLine": 1085,
                     "startColumn": 4,
-                    "startOffset": 89442,
+                    "startOffset": 89426,
                     "endLine": 1088,
                     "endColumn": 12,
-                    "endOffset": 89607
+                    "endOffset": 89591
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4439,10 +4404,10 @@
                 "to": {
                     "startLine": 1089,
                     "startColumn": 4,
-                    "startOffset": 89612,
+                    "startOffset": 89596,
                     "endLine": 1091,
                     "endColumn": 12,
-                    "endOffset": 89748
+                    "endOffset": 89732
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4452,9 +4417,9 @@
                 "to": {
                     "startLine": 1092,
                     "startColumn": 4,
-                    "startOffset": 89753,
+                    "startOffset": 89737,
                     "endColumn": 63,
-                    "endOffset": 89812
+                    "endOffset": 89796
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4464,10 +4429,10 @@
                 "to": {
                     "startLine": 1093,
                     "startColumn": 4,
-                    "startOffset": 89817,
+                    "startOffset": 89801,
                     "endLine": 1096,
                     "endColumn": 12,
-                    "endOffset": 90094
+                    "endOffset": 90078
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4477,10 +4442,10 @@
                 "to": {
                     "startLine": 1097,
                     "startColumn": 4,
-                    "startOffset": 90099,
+                    "startOffset": 90083,
                     "endLine": 1100,
                     "endColumn": 12,
-                    "endOffset": 90380
+                    "endOffset": 90364
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4490,10 +4455,10 @@
                 "to": {
                     "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 90385,
+                    "startOffset": 90369,
                     "endLine": 1110,
                     "endColumn": 12,
-                    "endOffset": 91056
+                    "endOffset": 91040
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4503,10 +4468,10 @@
                 "to": {
                     "startLine": 1111,
                     "startColumn": 4,
-                    "startOffset": 91061,
+                    "startOffset": 91045,
                     "endLine": 1115,
                     "endColumn": 12,
-                    "endOffset": 91320
+                    "endOffset": 91304
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4516,10 +4481,10 @@
                 "to": {
                     "startLine": 1116,
                     "startColumn": 4,
-                    "startOffset": 91325,
+                    "startOffset": 91309,
                     "endLine": 1122,
                     "endColumn": 12,
-                    "endOffset": 91658
+                    "endOffset": 91642
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4529,10 +4494,10 @@
                 "to": {
                     "startLine": 1123,
                     "startColumn": 4,
-                    "startOffset": 91663,
+                    "startOffset": 91647,
                     "endLine": 1128,
                     "endColumn": 12,
-                    "endOffset": 92011
+                    "endOffset": 91995
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4542,9 +4507,9 @@
                 "to": {
                     "startLine": 1129,
                     "startColumn": 4,
-                    "startOffset": 92016,
+                    "startOffset": 92000,
                     "endColumn": 93,
-                    "endOffset": 92105
+                    "endOffset": 92089
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4554,10 +4519,10 @@
                 "to": {
                     "startLine": 1130,
                     "startColumn": 4,
-                    "startOffset": 92110,
+                    "startOffset": 92094,
                     "endLine": 1132,
                     "endColumn": 12,
-                    "endOffset": 92291
+                    "endOffset": 92275
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4567,10 +4532,10 @@
                 "to": {
                     "startLine": 1133,
                     "startColumn": 4,
-                    "startOffset": 92296,
+                    "startOffset": 92280,
                     "endLine": 1136,
                     "endColumn": 12,
-                    "endOffset": 92597
+                    "endOffset": 92581
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4580,10 +4545,10 @@
                 "to": {
                     "startLine": 1137,
                     "startColumn": 4,
-                    "startOffset": 92602,
+                    "startOffset": 92586,
                     "endLine": 1141,
                     "endColumn": 12,
-                    "endOffset": 92859
+                    "endOffset": 92843
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4593,10 +4558,10 @@
                 "to": {
                     "startLine": 1142,
                     "startColumn": 4,
-                    "startOffset": 92864,
+                    "startOffset": 92848,
                     "endLine": 1143,
                     "endColumn": 12,
-                    "endOffset": 92984
+                    "endOffset": 92968
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4606,10 +4571,10 @@
                 "to": {
                     "startLine": 1144,
                     "startColumn": 4,
-                    "startOffset": 92989,
+                    "startOffset": 92973,
                     "endLine": 1145,
                     "endColumn": 12,
-                    "endOffset": 93111
+                    "endOffset": 93095
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4619,10 +4584,10 @@
                 "to": {
                     "startLine": 1146,
                     "startColumn": 4,
-                    "startOffset": 93116,
+                    "startOffset": 93100,
                     "endLine": 1148,
                     "endColumn": 12,
-                    "endOffset": 93350
+                    "endOffset": 93334
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4632,10 +4597,10 @@
                 "to": {
                     "startLine": 1149,
                     "startColumn": 4,
-                    "startOffset": 93355,
+                    "startOffset": 93339,
                     "endLine": 1151,
                     "endColumn": 12,
-                    "endOffset": 93561
+                    "endOffset": 93545
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4645,10 +4610,10 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 93566,
+                    "startOffset": 93550,
                     "endLine": 1153,
                     "endColumn": 12,
-                    "endOffset": 93680
+                    "endOffset": 93664
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4658,10 +4623,10 @@
                 "to": {
                     "startLine": 1154,
                     "startColumn": 4,
-                    "startOffset": 93685,
+                    "startOffset": 93669,
                     "endLine": 1157,
                     "endColumn": 12,
-                    "endOffset": 93873
+                    "endOffset": 93857
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4671,10 +4636,10 @@
                 "to": {
                     "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 93878,
+                    "startOffset": 93862,
                     "endLine": 1164,
                     "endColumn": 12,
-                    "endOffset": 94328
+                    "endOffset": 94312
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4684,10 +4649,10 @@
                 "to": {
                     "startLine": 1165,
                     "startColumn": 4,
-                    "startOffset": 94333,
+                    "startOffset": 94317,
                     "endLine": 1167,
                     "endColumn": 12,
-                    "endOffset": 94509
+                    "endOffset": 94493
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4697,10 +4662,10 @@
                 "to": {
                     "startLine": 1168,
                     "startColumn": 4,
-                    "startOffset": 94514,
+                    "startOffset": 94498,
                     "endLine": 1170,
                     "endColumn": 12,
-                    "endOffset": 94631
+                    "endOffset": 94615
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4710,10 +4675,10 @@
                 "to": {
                     "startLine": 1171,
                     "startColumn": 4,
-                    "startOffset": 94636,
+                    "startOffset": 94620,
                     "endLine": 1174,
                     "endColumn": 12,
-                    "endOffset": 94890
+                    "endOffset": 94874
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4723,10 +4688,10 @@
                 "to": {
                     "startLine": 1175,
                     "startColumn": 4,
-                    "startOffset": 94895,
+                    "startOffset": 94879,
                     "endLine": 1176,
                     "endColumn": 12,
-                    "endOffset": 95003
+                    "endOffset": 94987
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4736,10 +4701,10 @@
                 "to": {
                     "startLine": 1177,
                     "startColumn": 4,
-                    "startOffset": 95008,
+                    "startOffset": 94992,
                     "endLine": 1180,
                     "endColumn": 12,
-                    "endOffset": 95190
+                    "endOffset": 95174
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4749,10 +4714,10 @@
                 "to": {
                     "startLine": 1181,
                     "startColumn": 4,
-                    "startOffset": 95195,
+                    "startOffset": 95179,
                     "endLine": 1182,
                     "endColumn": 12,
-                    "endOffset": 95292
+                    "endOffset": 95276
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4762,10 +4727,10 @@
                 "to": {
                     "startLine": 1183,
                     "startColumn": 4,
-                    "startOffset": 95297,
+                    "startOffset": 95281,
                     "endLine": 1188,
                     "endColumn": 12,
-                    "endOffset": 95736
+                    "endOffset": 95720
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4775,10 +4740,10 @@
                 "to": {
                     "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 95741,
+                    "startOffset": 95725,
                     "endLine": 1190,
                     "endColumn": 12,
-                    "endOffset": 95860
+                    "endOffset": 95844
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4788,10 +4753,10 @@
                 "to": {
                     "startLine": 1191,
                     "startColumn": 4,
-                    "startOffset": 95865,
+                    "startOffset": 95849,
                     "endLine": 1194,
                     "endColumn": 12,
-                    "endOffset": 96145
+                    "endOffset": 96129
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4801,10 +4766,10 @@
                 "to": {
                     "startLine": 1195,
                     "startColumn": 4,
-                    "startOffset": 96150,
+                    "startOffset": 96134,
                     "endLine": 1206,
                     "endColumn": 12,
-                    "endOffset": 97032
+                    "endOffset": 97016
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4814,10 +4779,10 @@
                 "to": {
                     "startLine": 1207,
                     "startColumn": 4,
-                    "startOffset": 97037,
+                    "startOffset": 97021,
                     "endLine": 1212,
                     "endColumn": 12,
-                    "endOffset": 97326
+                    "endOffset": 97310
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4827,10 +4792,10 @@
                 "to": {
                     "startLine": 1213,
                     "startColumn": 4,
-                    "startOffset": 97331,
+                    "startOffset": 97315,
                     "endLine": 1221,
                     "endColumn": 12,
-                    "endOffset": 97896
+                    "endOffset": 97880
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4840,10 +4805,10 @@
                 "to": {
                     "startLine": 1222,
                     "startColumn": 4,
-                    "startOffset": 97901,
+                    "startOffset": 97885,
                     "endLine": 1232,
                     "endColumn": 12,
-                    "endOffset": 98628
+                    "endOffset": 98612
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4853,10 +4818,10 @@
                 "to": {
                     "startLine": 1233,
                     "startColumn": 4,
-                    "startOffset": 98633,
+                    "startOffset": 98617,
                     "endLine": 1235,
                     "endColumn": 12,
-                    "endOffset": 98800
+                    "endOffset": 98784
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4866,10 +4831,10 @@
                 "to": {
                     "startLine": 1236,
                     "startColumn": 4,
-                    "startOffset": 98805,
+                    "startOffset": 98789,
                     "endLine": 1240,
                     "endColumn": 12,
-                    "endOffset": 99136
+                    "endOffset": 99120
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4879,10 +4844,10 @@
                 "to": {
                     "startLine": 1241,
                     "startColumn": 4,
-                    "startOffset": 99141,
+                    "startOffset": 99125,
                     "endLine": 1252,
                     "endColumn": 12,
-                    "endOffset": 100003
+                    "endOffset": 99987
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4892,10 +4857,10 @@
                 "to": {
                     "startLine": 1253,
                     "startColumn": 4,
-                    "startOffset": 100008,
+                    "startOffset": 99992,
                     "endLine": 1257,
                     "endColumn": 12,
-                    "endOffset": 100281
+                    "endOffset": 100265
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4905,10 +4870,10 @@
                 "to": {
                     "startLine": 1258,
                     "startColumn": 4,
-                    "startOffset": 100286,
+                    "startOffset": 100270,
                     "endLine": 1267,
                     "endColumn": 12,
-                    "endOffset": 100872
+                    "endOffset": 100856
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -4918,10 +4883,10 @@
                 "to": {
                     "startLine": 1268,
                     "startColumn": 4,
-                    "startOffset": 100877,
+                    "startOffset": 100861,
                     "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 101152
+                    "endOffset": 101136
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/values/styles.xml"
@@ -4931,10 +4896,10 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 101157,
+                    "startOffset": 101141,
                     "endLine": 1311,
                     "endColumn": 12,
-                    "endOffset": 104014
+                    "endOffset": 103998
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4944,10 +4909,10 @@
                 "to": {
                     "startLine": 1312,
                     "startColumn": 4,
-                    "startOffset": 104019,
+                    "startOffset": 104003,
                     "endLine": 1350,
                     "endColumn": 12,
-                    "endOffset": 107016
+                    "endOffset": 107000
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4957,9 +4922,9 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 107021,
+                    "startOffset": 107005,
                     "endColumn": 61,
-                    "endOffset": 107078
+                    "endOffset": 107062
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4969,10 +4934,10 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 107083,
+                    "startOffset": 107067,
                     "endLine": 1361,
                     "endColumn": 12,
-                    "endOffset": 107708
+                    "endOffset": 107692
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4982,10 +4947,10 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 107713,
+                    "startOffset": 107697,
                     "endLine": 1370,
                     "endColumn": 12,
-                    "endOffset": 108322
+                    "endOffset": 108306
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -4995,9 +4960,9 @@
                 "to": {
                     "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 108327,
+                    "startOffset": 108311,
                     "endColumn": 85,
-                    "endOffset": 108408
+                    "endOffset": 108392
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5007,10 +4972,10 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 108413,
+                    "startOffset": 108397,
                     "endLine": 1373,
                     "endColumn": 12,
-                    "endOffset": 108521
+                    "endOffset": 108505
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5020,10 +4985,10 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 108526,
+                    "startOffset": 108510,
                     "endLine": 1377,
                     "endColumn": 12,
-                    "endOffset": 108750
+                    "endOffset": 108734
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5033,10 +4998,10 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 108755,
+                    "startOffset": 108739,
                     "endLine": 1380,
                     "endColumn": 12,
-                    "endOffset": 108910
+                    "endOffset": 108894
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5046,10 +5011,10 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 108915,
+                    "startOffset": 108899,
                     "endLine": 1383,
                     "endColumn": 12,
-                    "endOffset": 109062
+                    "endOffset": 109046
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5059,10 +5024,10 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 109067,
+                    "startOffset": 109051,
                     "endLine": 1386,
                     "endColumn": 12,
-                    "endOffset": 109233
+                    "endOffset": 109217
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5072,10 +5037,10 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 109238,
+                    "startOffset": 109222,
                     "endLine": 1389,
                     "endColumn": 12,
-                    "endOffset": 109400
+                    "endOffset": 109384
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5085,10 +5050,10 @@
                 "to": {
                     "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 109405,
+                    "startOffset": 109389,
                     "endLine": 1393,
                     "endColumn": 12,
-                    "endOffset": 109643
+                    "endOffset": 109627
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5098,10 +5063,10 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 109648,
+                    "startOffset": 109632,
                     "endLine": 1396,
                     "endColumn": 12,
-                    "endOffset": 109813
+                    "endOffset": 109797
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5111,10 +5076,10 @@
                 "to": {
                     "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 109818,
+                    "startOffset": 109802,
                     "endLine": 1399,
                     "endColumn": 12,
-                    "endOffset": 109986
+                    "endOffset": 109970
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5124,10 +5089,10 @@
                 "to": {
                     "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 109991,
+                    "startOffset": 109975,
                     "endLine": 1402,
                     "endColumn": 12,
-                    "endOffset": 110157
+                    "endOffset": 110141
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5137,10 +5102,10 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 110162,
+                    "startOffset": 110146,
                     "endLine": 1406,
                     "endColumn": 12,
-                    "endOffset": 110431
+                    "endOffset": 110415
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5150,10 +5115,10 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 110436,
+                    "startOffset": 110420,
                     "endLine": 1409,
                     "endColumn": 12,
-                    "endOffset": 110630
+                    "endOffset": 110614
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5163,10 +5128,10 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 110635,
+                    "startOffset": 110619,
                     "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 110835
+                    "endOffset": 110819
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5176,10 +5141,10 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 110840,
+                    "startOffset": 110824,
                     "endLine": 1417,
                     "endColumn": 12,
-                    "endOffset": 111165
+                    "endOffset": 111149
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5189,9 +5154,9 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 111170,
+                    "startOffset": 111154,
                     "endColumn": 83,
-                    "endOffset": 111249
+                    "endOffset": 111233
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5201,9 +5166,9 @@
                 "to": {
                     "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 111254,
+                    "startOffset": 111238,
                     "endColumn": 95,
-                    "endOffset": 111345
+                    "endOffset": 111329
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5213,9 +5178,9 @@
                 "to": {
                     "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 111350,
+                    "startOffset": 111334,
                     "endColumn": 95,
-                    "endOffset": 111441
+                    "endOffset": 111425
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5225,9 +5190,9 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 111446,
+                    "startOffset": 111430,
                     "endColumn": 97,
-                    "endOffset": 111539
+                    "endOffset": 111523
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5237,9 +5202,9 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 111544,
+                    "startOffset": 111528,
                     "endColumn": 99,
-                    "endOffset": 111639
+                    "endOffset": 111623
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5249,9 +5214,9 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 111644,
+                    "startOffset": 111628,
                     "endColumn": 101,
-                    "endOffset": 111741
+                    "endOffset": 111725
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5261,9 +5226,9 @@
                 "to": {
                     "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 111746,
+                    "startOffset": 111730,
                     "endColumn": 101,
-                    "endOffset": 111843
+                    "endOffset": 111827
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5273,9 +5238,9 @@
                 "to": {
                     "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 111848,
+                    "startOffset": 111832,
                     "endColumn": 101,
-                    "endOffset": 111945
+                    "endOffset": 111929
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5285,9 +5250,9 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 111950,
+                    "startOffset": 111934,
                     "endColumn": 101,
-                    "endOffset": 112047
+                    "endOffset": 112031
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5297,9 +5262,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 112052,
+                    "startOffset": 112036,
                     "endColumn": 101,
-                    "endOffset": 112149
+                    "endOffset": 112133
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5309,9 +5274,9 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 112154,
+                    "startOffset": 112138,
                     "endColumn": 99,
-                    "endOffset": 112249
+                    "endOffset": 112233
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5321,9 +5286,9 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 112254,
+                    "startOffset": 112238,
                     "endColumn": 95,
-                    "endOffset": 112345
+                    "endOffset": 112329
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5333,9 +5298,9 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 112350,
+                    "startOffset": 112334,
                     "endColumn": 111,
-                    "endOffset": 112457
+                    "endOffset": 112441
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5345,9 +5310,9 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 112462,
+                    "startOffset": 112446,
                     "endColumn": 128,
-                    "endOffset": 112586
+                    "endOffset": 112570
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5357,9 +5322,9 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 112591,
+                    "startOffset": 112575,
                     "endColumn": 122,
-                    "endOffset": 112709
+                    "endOffset": 112693
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5369,10 +5334,10 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 112714,
+                    "startOffset": 112698,
                     "endLine": 1434,
                     "endColumn": 12,
-                    "endOffset": 112863
+                    "endOffset": 112847
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5382,10 +5347,10 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 112868,
+                    "startOffset": 112852,
                     "endLine": 1436,
                     "endColumn": 12,
-                    "endOffset": 113017
+                    "endOffset": 113001
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5395,9 +5360,9 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 113022,
+                    "startOffset": 113006,
                     "endColumn": 97,
-                    "endOffset": 113115
+                    "endOffset": 113099
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5407,9 +5372,9 @@
                 "to": {
                     "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 113120,
+                    "startOffset": 113104,
                     "endColumn": 113,
-                    "endOffset": 113229
+                    "endOffset": 113213
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5419,9 +5384,9 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 113234,
+                    "startOffset": 113218,
                     "endColumn": 93,
-                    "endOffset": 113323
+                    "endOffset": 113307
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5431,10 +5396,10 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 113328,
+                    "startOffset": 113312,
                     "endLine": 1441,
                     "endColumn": 12,
-                    "endOffset": 113463
+                    "endOffset": 113447
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5444,10 +5409,10 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 113468,
+                    "startOffset": 113452,
                     "endLine": 1443,
                     "endColumn": 12,
-                    "endOffset": 113597
+                    "endOffset": 113581
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5457,9 +5422,9 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 113602,
+                    "startOffset": 113586,
                     "endColumn": 95,
-                    "endOffset": 113693
+                    "endOffset": 113677
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5469,9 +5434,9 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 113698,
+                    "startOffset": 113682,
                     "endColumn": 111,
-                    "endOffset": 113805
+                    "endOffset": 113789
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5481,9 +5446,9 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 113810,
+                    "startOffset": 113794,
                     "endColumn": 99,
-                    "endOffset": 113905
+                    "endOffset": 113889
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5493,9 +5458,9 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 113910,
+                    "startOffset": 113894,
                     "endColumn": 115,
-                    "endOffset": 114021
+                    "endOffset": 114005
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5505,9 +5470,9 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 114026,
+                    "startOffset": 114010,
                     "endColumn": 95,
-                    "endOffset": 114117
+                    "endOffset": 114101
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5517,9 +5482,9 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 114122,
+                    "startOffset": 114106,
                     "endColumn": 111,
-                    "endOffset": 114229
+                    "endOffset": 114213
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5529,10 +5494,10 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 114234,
+                    "startOffset": 114218,
                     "endLine": 1451,
                     "endColumn": 12,
-                    "endOffset": 114369
+                    "endOffset": 114353
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5542,9 +5507,9 @@
                 "to": {
                     "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 114374,
+                    "startOffset": 114358,
                     "endColumn": 135,
-                    "endOffset": 114505
+                    "endOffset": 114489
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5554,10 +5519,10 @@
                 "to": {
                     "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 114510,
+                    "startOffset": 114494,
                     "endLine": 1454,
                     "endColumn": 12,
-                    "endOffset": 114669
+                    "endOffset": 114653
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5567,9 +5532,9 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 114674,
+                    "startOffset": 114658,
                     "endColumn": 129,
-                    "endOffset": 114799
+                    "endOffset": 114783
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5579,10 +5544,10 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 114804,
+                    "startOffset": 114788,
                     "endLine": 1457,
                     "endColumn": 12,
-                    "endOffset": 114957
+                    "endOffset": 114941
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5592,10 +5557,10 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 114962,
+                    "startOffset": 114946,
                     "endLine": 1459,
                     "endColumn": 12,
-                    "endOffset": 115107
+                    "endOffset": 115091
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5605,9 +5570,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 115112,
+                    "startOffset": 115096,
                     "endColumn": 140,
-                    "endOffset": 115248
+                    "endOffset": 115232
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5617,10 +5582,10 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 115253,
+                    "startOffset": 115237,
                     "endLine": 1462,
                     "endColumn": 12,
-                    "endOffset": 115392
+                    "endOffset": 115376
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5630,9 +5595,9 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 115397,
+                    "startOffset": 115381,
                     "endColumn": 134,
-                    "endOffset": 115527
+                    "endOffset": 115511
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5642,9 +5607,9 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 115532,
+                    "startOffset": 115516,
                     "endColumn": 111,
-                    "endOffset": 115639
+                    "endOffset": 115623
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5654,9 +5619,9 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 115644,
+                    "startOffset": 115628,
                     "endColumn": 127,
-                    "endOffset": 115767
+                    "endOffset": 115751
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5666,10 +5631,10 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 115772,
+                    "startOffset": 115756,
                     "endLine": 1467,
                     "endColumn": 12,
-                    "endOffset": 115903
+                    "endOffset": 115887
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5679,10 +5644,10 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 115908,
+                    "startOffset": 115892,
                     "endLine": 1469,
                     "endColumn": 12,
-                    "endOffset": 116045
+                    "endOffset": 116029
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5692,10 +5657,10 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 116050,
+                    "startOffset": 116034,
                     "endLine": 1471,
                     "endColumn": 12,
-                    "endOffset": 116187
+                    "endOffset": 116171
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5705,9 +5670,9 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 116192,
+                    "startOffset": 116176,
                     "endColumn": 111,
-                    "endOffset": 116299
+                    "endOffset": 116283
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5717,9 +5682,9 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 116304,
+                    "startOffset": 116288,
                     "endColumn": 139,
-                    "endOffset": 116439
+                    "endOffset": 116423
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5729,10 +5694,10 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 116444,
+                    "startOffset": 116428,
                     "endLine": 1476,
                     "endColumn": 12,
-                    "endOffset": 116640
+                    "endOffset": 116624
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -5742,9 +5707,9 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 116645,
+                    "startOffset": 116629,
                     "endColumn": 91,
-                    "endOffset": 116732
+                    "endOffset": 116716
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -5754,10 +5719,10 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 116737,
+                    "startOffset": 116721,
                     "endLine": 1480,
                     "endColumn": 12,
-                    "endOffset": 116927
+                    "endOffset": 116911
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -5767,10 +5732,10 @@
                 "to": {
                     "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 116932,
+                    "startOffset": 116916,
                     "endLine": 1483,
                     "endColumn": 12,
-                    "endOffset": 117111
+                    "endOffset": 117095
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -5780,10 +5745,10 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 117116,
+                    "startOffset": 117100,
                     "endLine": 1486,
                     "endColumn": 12,
-                    "endOffset": 117286
+                    "endOffset": 117270
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -5793,10 +5758,10 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 117291,
+                    "startOffset": 117275,
                     "endLine": 1490,
                     "endColumn": 12,
-                    "endOffset": 117539
+                    "endOffset": 117523
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -5806,10 +5771,10 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 117544,
+                    "startOffset": 117528,
                     "endLine": 1495,
                     "endColumn": 12,
-                    "endOffset": 117830
+                    "endOffset": 117814
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -5819,9 +5784,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 117835,
+                    "startOffset": 117819,
                     "endColumn": 67,
-                    "endOffset": 117898
+                    "endOffset": 117882
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5831,9 +5796,9 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 117903,
+                    "startOffset": 117887,
                     "endColumn": 72,
-                    "endOffset": 117971
+                    "endOffset": 117955
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5843,9 +5808,9 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 117976,
+                    "startOffset": 117960,
                     "endColumn": 73,
-                    "endOffset": 118045
+                    "endOffset": 118029
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5855,9 +5820,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 118050,
+                    "startOffset": 118034,
                     "endColumn": 72,
-                    "endOffset": 118118
+                    "endOffset": 118102
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5867,9 +5832,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 118123,
+                    "startOffset": 118107,
                     "endColumn": 73,
-                    "endOffset": 118192
+                    "endOffset": 118176
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5879,10 +5844,10 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 118197,
+                    "startOffset": 118181,
                     "endLine": 1502,
                     "endColumn": 12,
-                    "endOffset": 118338
+                    "endOffset": 118322
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5892,10 +5857,10 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 118343,
+                    "startOffset": 118327,
                     "endLine": 1504,
                     "endColumn": 12,
-                    "endOffset": 118482
+                    "endOffset": 118466
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5905,10 +5870,10 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 118487,
+                    "startOffset": 118471,
                     "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 118620
+                    "endOffset": 118604
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5918,9 +5883,9 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 118625,
+                    "startOffset": 118609,
                     "endColumn": 65,
-                    "endOffset": 118686
+                    "endOffset": 118670
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5930,9 +5895,9 @@
                 "to": {
                     "startLine": 1508,
                     "startColumn": 4,
-                    "startOffset": 118691,
+                    "startOffset": 118675,
                     "endColumn": 89,
-                    "endOffset": 118776
+                    "endOffset": 118760
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5942,9 +5907,9 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 118781,
+                    "startOffset": 118765,
                     "endColumn": 79,
-                    "endOffset": 118856
+                    "endOffset": 118840
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5954,9 +5919,9 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 118861,
+                    "startOffset": 118845,
                     "endColumn": 91,
-                    "endOffset": 118948
+                    "endOffset": 118932
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5966,9 +5931,9 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 118953,
+                    "startOffset": 118937,
                     "endColumn": 97,
-                    "endOffset": 119046
+                    "endOffset": 119030
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5978,10 +5943,10 @@
                 "to": {
                     "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 119051,
+                    "startOffset": 119035,
                     "endLine": 1513,
                     "endColumn": 12,
-                    "endOffset": 119156
+                    "endOffset": 119140
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -5991,9 +5956,9 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 119161,
+                    "startOffset": 119145,
                     "endColumn": 77,
-                    "endOffset": 119234
+                    "endOffset": 119218
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6003,9 +5968,9 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 119239,
+                    "startOffset": 119223,
                     "endColumn": 105,
-                    "endOffset": 119340
+                    "endOffset": 119324
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6015,9 +5980,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 119345,
+                    "startOffset": 119329,
                     "endColumn": 91,
-                    "endOffset": 119432
+                    "endOffset": 119416
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6027,9 +5992,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 119437,
+                    "startOffset": 119421,
                     "endColumn": 103,
-                    "endOffset": 119536
+                    "endOffset": 119520
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6039,9 +6004,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 119541,
+                    "startOffset": 119525,
                     "endColumn": 109,
-                    "endOffset": 119646
+                    "endOffset": 119630
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6051,10 +6016,10 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 119651,
+                    "startOffset": 119635,
                     "endLine": 1520,
                     "endColumn": 12,
-                    "endOffset": 119768
+                    "endOffset": 119752
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6064,10 +6029,10 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 119773,
+                    "startOffset": 119757,
                     "endLine": 1524,
                     "endColumn": 12,
-                    "endOffset": 119931
+                    "endOffset": 119915
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6077,10 +6042,10 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 119936,
+                    "startOffset": 119920,
                     "endLine": 1528,
                     "endColumn": 12,
-                    "endOffset": 120088
+                    "endOffset": 120072
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6090,9 +6055,9 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 120093,
+                    "startOffset": 120077,
                     "endColumn": 79,
-                    "endOffset": 120168
+                    "endOffset": 120152
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6102,9 +6067,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 120173,
+                    "startOffset": 120157,
                     "endColumn": 99,
-                    "endOffset": 120268
+                    "endOffset": 120252
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6114,9 +6079,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 120273,
+                    "startOffset": 120257,
                     "endColumn": 89,
-                    "endOffset": 120358
+                    "endOffset": 120342
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6126,9 +6091,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 120363,
+                    "startOffset": 120347,
                     "endColumn": 109,
-                    "endOffset": 120468
+                    "endOffset": 120452
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6138,9 +6103,9 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 120473,
+                    "startOffset": 120457,
                     "endColumn": 91,
-                    "endOffset": 120560
+                    "endOffset": 120544
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6150,10 +6115,10 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 120565,
+                    "startOffset": 120549,
                     "endLine": 1535,
                     "endColumn": 12,
-                    "endOffset": 120660
+                    "endOffset": 120644
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6163,10 +6128,10 @@
                 "to": {
                     "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 120665,
+                    "startOffset": 120649,
                     "endLine": 1537,
                     "endColumn": 12,
-                    "endOffset": 120772
+                    "endOffset": 120756
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6176,10 +6141,10 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 120777,
+                    "startOffset": 120761,
                     "endLine": 1539,
                     "endColumn": 12,
-                    "endOffset": 120886
+                    "endOffset": 120870
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6189,10 +6154,10 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 120891,
+                    "startOffset": 120875,
                     "endLine": 1541,
                     "endColumn": 12,
-                    "endOffset": 121002
+                    "endOffset": 120986
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6202,10 +6167,10 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 121007,
+                    "startOffset": 120991,
                     "endLine": 1543,
                     "endColumn": 12,
-                    "endOffset": 121118
+                    "endOffset": 121102
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6215,9 +6180,9 @@
                 "to": {
                     "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 121123,
+                    "startOffset": 121107,
                     "endColumn": 93,
-                    "endOffset": 121212
+                    "endOffset": 121196
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6227,9 +6192,9 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 121217,
+                    "startOffset": 121201,
                     "endColumn": 113,
-                    "endOffset": 121326
+                    "endOffset": 121310
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6239,9 +6204,9 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 121331,
+                    "startOffset": 121315,
                     "endColumn": 111,
-                    "endOffset": 121438
+                    "endOffset": 121422
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6251,10 +6216,10 @@
                 "to": {
                     "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 121443,
+                    "startOffset": 121427,
                     "endLine": 1548,
                     "endColumn": 12,
-                    "endOffset": 121540
+                    "endOffset": 121524
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6264,10 +6229,10 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 121545,
+                    "startOffset": 121529,
                     "endLine": 1550,
                     "endColumn": 12,
-                    "endOffset": 121660
+                    "endOffset": 121644
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6277,10 +6242,10 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 121665,
+                    "startOffset": 121649,
                     "endLine": 1552,
                     "endColumn": 12,
-                    "endOffset": 121782
+                    "endOffset": 121766
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6290,9 +6255,9 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 121787,
+                    "startOffset": 121771,
                     "endColumn": 81,
-                    "endOffset": 121864
+                    "endOffset": 121848
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6302,9 +6267,9 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 121869,
+                    "startOffset": 121853,
                     "endColumn": 103,
-                    "endOffset": 121968
+                    "endOffset": 121952
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6314,9 +6279,9 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 121973,
+                    "startOffset": 121957,
                     "endColumn": 119,
-                    "endOffset": 122088
+                    "endOffset": 122072
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6326,9 +6291,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 122093,
+                    "startOffset": 122077,
                     "endColumn": 125,
-                    "endOffset": 122214
+                    "endOffset": 122198
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6338,9 +6303,9 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 122219,
+                    "startOffset": 122203,
                     "endColumn": 97,
-                    "endOffset": 122312
+                    "endOffset": 122296
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6350,9 +6315,9 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 122317,
+                    "startOffset": 122301,
                     "endColumn": 93,
-                    "endOffset": 122406
+                    "endOffset": 122390
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6362,9 +6327,9 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 122411,
+                    "startOffset": 122395,
                     "endColumn": 87,
-                    "endOffset": 122494
+                    "endOffset": 122478
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6374,9 +6339,9 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 122499,
+                    "startOffset": 122483,
                     "endColumn": 111,
-                    "endOffset": 122606
+                    "endOffset": 122590
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6386,9 +6351,9 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 122611,
+                    "startOffset": 122595,
                     "endColumn": 115,
-                    "endOffset": 122722
+                    "endOffset": 122706
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6398,9 +6363,9 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 122727,
+                    "startOffset": 122711,
                     "endColumn": 121,
-                    "endOffset": 122844
+                    "endOffset": 122828
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6410,9 +6375,9 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 122849,
+                    "startOffset": 122833,
                     "endColumn": 111,
-                    "endOffset": 122956
+                    "endOffset": 122940
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6422,10 +6387,10 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 122961,
+                    "startOffset": 122945,
                     "endLine": 1566,
                     "endColumn": 12,
-                    "endOffset": 123131
+                    "endOffset": 123115
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6435,9 +6400,9 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 123136,
+                    "startOffset": 123120,
                     "endColumn": 115,
-                    "endOffset": 123247
+                    "endOffset": 123231
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6447,9 +6412,9 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 123252,
+                    "startOffset": 123236,
                     "endColumn": 85,
-                    "endOffset": 123333
+                    "endOffset": 123317
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6459,9 +6424,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 123338,
+                    "startOffset": 123322,
                     "endColumn": 91,
-                    "endOffset": 123425
+                    "endOffset": 123409
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6471,10 +6436,10 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 123430,
+                    "startOffset": 123414,
                     "endLine": 1571,
                     "endColumn": 12,
-                    "endOffset": 123537
+                    "endOffset": 123521
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6484,10 +6449,10 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 123542,
+                    "startOffset": 123526,
                     "endLine": 1573,
                     "endColumn": 12,
-                    "endOffset": 123661
+                    "endOffset": 123645
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6497,9 +6462,9 @@
                 "to": {
                     "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 123666,
+                    "startOffset": 123650,
                     "endColumn": 66,
-                    "endOffset": 123728
+                    "endOffset": 123712
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6509,10 +6474,10 @@
                 "to": {
                     "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 123733,
+                    "startOffset": 123717,
                     "endLine": 1576,
                     "endColumn": 12,
-                    "endOffset": 123854
+                    "endOffset": 123838
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6522,9 +6487,9 @@
                 "to": {
                     "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 123859,
+                    "startOffset": 123843,
                     "endColumn": 67,
-                    "endOffset": 123922
+                    "endOffset": 123906
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6534,10 +6499,10 @@
                 "to": {
                     "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 123927,
+                    "startOffset": 123911,
                     "endLine": 1579,
                     "endColumn": 12,
-                    "endOffset": 124050
+                    "endOffset": 124034
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6547,10 +6512,10 @@
                 "to": {
                     "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 124055,
+                    "startOffset": 124039,
                     "endLine": 1581,
                     "endColumn": 12,
-                    "endOffset": 124194
+                    "endOffset": 124178
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6560,10 +6525,10 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 124199,
+                    "startOffset": 124183,
                     "endLine": 1583,
                     "endColumn": 12,
-                    "endOffset": 124322
+                    "endOffset": 124306
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6573,9 +6538,9 @@
                 "to": {
                     "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 124327,
+                    "startOffset": 124311,
                     "endColumn": 68,
-                    "endOffset": 124391
+                    "endOffset": 124375
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6585,9 +6550,9 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 124396,
+                    "startOffset": 124380,
                     "endColumn": 94,
-                    "endOffset": 124486
+                    "endOffset": 124470
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6597,9 +6562,9 @@
                 "to": {
                     "startLine": 1586,
                     "startColumn": 4,
-                    "startOffset": 124491,
+                    "startOffset": 124475,
                     "endColumn": 114,
-                    "endOffset": 124601
+                    "endOffset": 124585
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6609,9 +6574,9 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 124606,
+                    "startOffset": 124590,
                     "endColumn": 112,
-                    "endOffset": 124714
+                    "endOffset": 124698
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6621,9 +6586,9 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 124719,
+                    "startOffset": 124703,
                     "endColumn": 98,
-                    "endOffset": 124813
+                    "endOffset": 124797
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6633,9 +6598,9 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 124818,
+                    "startOffset": 124802,
                     "endColumn": 108,
-                    "endOffset": 124922
+                    "endOffset": 124906
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6645,9 +6610,9 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 124927,
+                    "startOffset": 124911,
                     "endColumn": 110,
-                    "endOffset": 125033
+                    "endOffset": 125017
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6657,9 +6622,9 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 125038,
+                    "startOffset": 125022,
                     "endColumn": 110,
-                    "endOffset": 125144
+                    "endOffset": 125128
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6669,9 +6634,9 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 125149,
+                    "startOffset": 125133,
                     "endColumn": 100,
-                    "endOffset": 125245
+                    "endOffset": 125229
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6681,9 +6646,9 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 125250,
+                    "startOffset": 125234,
                     "endColumn": 104,
-                    "endOffset": 125350
+                    "endOffset": 125334
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6693,10 +6658,10 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 125355,
+                    "startOffset": 125339,
                     "endLine": 1595,
                     "endColumn": 12,
-                    "endOffset": 125462
+                    "endOffset": 125446
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6706,10 +6671,10 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 125467,
+                    "startOffset": 125451,
                     "endLine": 1597,
                     "endColumn": 12,
-                    "endOffset": 125592
+                    "endOffset": 125576
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6719,9 +6684,9 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 125597,
+                    "startOffset": 125581,
                     "endColumn": 90,
-                    "endOffset": 125683
+                    "endOffset": 125667
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6731,9 +6696,9 @@
                 "to": {
                     "startLine": 1599,
                     "startColumn": 4,
-                    "startOffset": 125688,
+                    "startOffset": 125672,
                     "endColumn": 122,
-                    "endOffset": 125806
+                    "endOffset": 125790
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6743,10 +6708,10 @@
                 "to": {
                     "startLine": 1600,
                     "startColumn": 4,
-                    "startOffset": 125811,
+                    "startOffset": 125795,
                     "endLine": 1601,
                     "endColumn": 12,
-                    "endOffset": 125918
+                    "endOffset": 125902
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6756,9 +6721,9 @@
                 "to": {
                     "startLine": 1602,
                     "startColumn": 4,
-                    "startOffset": 125923,
+                    "startOffset": 125907,
                     "endColumn": 85,
-                    "endOffset": 126004
+                    "endOffset": 125988
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6768,9 +6733,9 @@
                 "to": {
                     "startLine": 1603,
                     "startColumn": 4,
-                    "startOffset": 126009,
+                    "startOffset": 125993,
                     "endColumn": 103,
-                    "endOffset": 126108
+                    "endOffset": 126092
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6780,10 +6745,10 @@
                 "to": {
                     "startLine": 1604,
                     "startColumn": 4,
-                    "startOffset": 126113,
+                    "startOffset": 126097,
                     "endLine": 1605,
                     "endColumn": 12,
-                    "endOffset": 126216
+                    "endOffset": 126200
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6793,10 +6758,10 @@
                 "to": {
                     "startLine": 1606,
                     "startColumn": 4,
-                    "startOffset": 126221,
+                    "startOffset": 126205,
                     "endLine": 1607,
                     "endColumn": 12,
-                    "endOffset": 126316
+                    "endOffset": 126300
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6806,10 +6771,10 @@
                 "to": {
                     "startLine": 1608,
                     "startColumn": 4,
-                    "startOffset": 126321,
+                    "startOffset": 126305,
                     "endLine": 1609,
                     "endColumn": 12,
-                    "endOffset": 126434
+                    "endOffset": 126418
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6819,10 +6784,10 @@
                 "to": {
                     "startLine": 1610,
                     "startColumn": 4,
-                    "startOffset": 126439,
+                    "startOffset": 126423,
                     "endLine": 1611,
                     "endColumn": 12,
-                    "endOffset": 126538
+                    "endOffset": 126522
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6832,10 +6797,10 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 126543,
+                    "startOffset": 126527,
                     "endLine": 1613,
                     "endColumn": 12,
-                    "endOffset": 126642
+                    "endOffset": 126626
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6845,10 +6810,10 @@
                 "to": {
                     "startLine": 1614,
                     "startColumn": 4,
-                    "startOffset": 126647,
+                    "startOffset": 126631,
                     "endLine": 1615,
                     "endColumn": 12,
-                    "endOffset": 126768
+                    "endOffset": 126752
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6858,9 +6823,9 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 126773,
+                    "startOffset": 126757,
                     "endColumn": 87,
-                    "endOffset": 126856
+                    "endOffset": 126840
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6870,9 +6835,9 @@
                 "to": {
                     "startLine": 1617,
                     "startColumn": 4,
-                    "startOffset": 126861,
+                    "startOffset": 126845,
                     "endColumn": 89,
-                    "endOffset": 126946
+                    "endOffset": 126930
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6882,9 +6847,9 @@
                 "to": {
                     "startLine": 1618,
                     "startColumn": 4,
-                    "startOffset": 126951,
+                    "startOffset": 126935,
                     "endColumn": 109,
-                    "endOffset": 127056
+                    "endOffset": 127040
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6894,9 +6859,9 @@
                 "to": {
                     "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 127061,
+                    "startOffset": 127045,
                     "endColumn": 83,
-                    "endOffset": 127140
+                    "endOffset": 127124
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6906,9 +6871,9 @@
                 "to": {
                     "startLine": 1620,
                     "startColumn": 4,
-                    "startOffset": 127145,
+                    "startOffset": 127129,
                     "endColumn": 83,
-                    "endOffset": 127224
+                    "endOffset": 127208
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6918,9 +6883,9 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 127229,
+                    "startOffset": 127213,
                     "endColumn": 53,
-                    "endOffset": 127278
+                    "endOffset": 127262
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6930,9 +6895,9 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 127283,
+                    "startOffset": 127267,
                     "endColumn": 63,
-                    "endOffset": 127342
+                    "endOffset": 127326
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6942,9 +6907,9 @@
                 "to": {
                     "startLine": 1623,
                     "startColumn": 4,
-                    "startOffset": 127347,
+                    "startOffset": 127331,
                     "endColumn": 105,
-                    "endOffset": 127448
+                    "endOffset": 127432
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6954,9 +6919,9 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
-                    "startOffset": 127453,
+                    "startOffset": 127437,
                     "endColumn": 109,
-                    "endOffset": 127558
+                    "endOffset": 127542
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6966,9 +6931,9 @@
                 "to": {
                     "startLine": 1625,
                     "startColumn": 4,
-                    "startOffset": 127563,
+                    "startOffset": 127547,
                     "endColumn": 83,
-                    "endOffset": 127642
+                    "endOffset": 127626
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6978,9 +6943,9 @@
                 "to": {
                     "startLine": 1626,
                     "startColumn": 4,
-                    "startOffset": 127647,
+                    "startOffset": 127631,
                     "endColumn": 119,
-                    "endOffset": 127762
+                    "endOffset": 127746
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -6990,10 +6955,10 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 127767,
+                    "startOffset": 127751,
                     "endLine": 1630,
                     "endColumn": 12,
-                    "endOffset": 127980
+                    "endOffset": 127964
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -7003,10 +6968,10 @@
                 "to": {
                     "startLine": 1631,
                     "startColumn": 4,
-                    "startOffset": 127985,
+                    "startOffset": 127969,
                     "endLine": 1634,
                     "endColumn": 12,
-                    "endOffset": 128187
+                    "endOffset": 128171
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -7016,10 +6981,10 @@
                 "to": {
                     "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 128192,
+                    "startOffset": 128176,
                     "endLine": 1637,
                     "endColumn": 12,
-                    "endOffset": 128346
+                    "endOffset": 128330
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -7029,10 +6994,10 @@
                 "to": {
                     "startLine": 1638,
                     "startColumn": 4,
-                    "startOffset": 128351,
+                    "startOffset": 128335,
                     "endLine": 1646,
                     "endColumn": 12,
-                    "endOffset": 128913
+                    "endOffset": 128897
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -7042,10 +7007,10 @@
                 "to": {
                     "startLine": 1647,
                     "startColumn": 4,
-                    "startOffset": 128918,
+                    "startOffset": 128902,
                     "endLine": 1652,
                     "endColumn": 12,
-                    "endOffset": 129274
+                    "endOffset": 129258
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -7055,10 +7020,10 @@
                 "to": {
                     "startLine": 1653,
                     "startColumn": 4,
-                    "startOffset": 129279,
+                    "startOffset": 129263,
                     "endLine": 1655,
                     "endColumn": 12,
-                    "endOffset": 129403
+                    "endOffset": 129387
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -7068,10 +7033,10 @@
                 "to": {
                     "startLine": 1656,
                     "startColumn": 4,
-                    "startOffset": 129408,
+                    "startOffset": 129392,
                     "endLine": 1665,
                     "endColumn": 12,
-                    "endOffset": 130147
+                    "endOffset": 130131
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -7081,10 +7046,10 @@
                 "to": {
                     "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 130152,
+                    "startOffset": 130136,
                     "endLine": 1669,
                     "endColumn": 12,
-                    "endOffset": 130327
+                    "endOffset": 130311
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -7094,10 +7059,10 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 130332,
+                    "startOffset": 130316,
                     "endLine": 1675,
                     "endColumn": 12,
-                    "endOffset": 130768
+                    "endOffset": 130752
                 },
                 "from": {
                     "file": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
