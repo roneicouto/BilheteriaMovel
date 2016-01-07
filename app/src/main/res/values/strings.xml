@@ -33,5 +33,9 @@
     <string name="campo_obrigatorio">Campo obrigatório.</string>
     <string name="login_txtNome">Nome:</string>
 
+    <!-- eventos -->
+    <item name="evento_edtN_Evento" type="id">Nome:</item>
+    <item name="evento_edtTotaltickets" type="id">Total de Bilhetes:</item>
+    <item name="evento_edtRestickets" type="id">Bilhetes Disponíveis:</item>
 
 </resources>

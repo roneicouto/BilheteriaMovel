@@ -18,7 +18,7 @@ import java.util.List;
 import model.Usuario;
 
 /**
- * Created by mrcoyote on 21/12/14.
+ * Created by mrcoyote on 05/01/16.
  */
 public class UsuarioAdapter extends BaseAdapter {
 
