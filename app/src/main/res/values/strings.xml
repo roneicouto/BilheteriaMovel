@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Passe Certo</string>
+
+    <!--Tela Inicial e Menu-->
+    <string name="title_activity_home">Passe Certo</string>
+    <string name="action_settings">Configurações</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="sair">Sair</string>
+    <string name="logout">Logout</string>
+    <string name="usuarios">Usuários</string>
+    <string name="cadastrar">Cadastrar</string>
+
+
+    <!-- Tela de Login e Cadastros-->
+    <string name="title_activity_login">Faça o Login ou registre-se</string>
+    <string name="login_txtUser">Usuário:</string>
+    <string name="login_txtPassw">Senha:</string>
+    <string name="login_txtEmail">E-mail:</string>
+    <string name="login_ckbConectado">Manter conectado?</string>
+
+    <!-- Mensagens -->
+    <string name="msg_login_incorreto">Usuário e/ou senha inválido.</string>
+    <string name="title_activity_cad_usuario">Cadastro de Usuários</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mensagem_cadastro">Registro cadastrado com sucesso!</string>
+    <string name="mensagem_atualizar">Registro atualizado com sucesso!</string>
+    <string name="mensagem_erro">Erro ao salvar!</string>
+
+    <!-- Validacaoes -->
+    <string name="login_valUsuario">Usuário obrigatório.</string>
+    <string name="login_valSenha">Senha obrigatório.</string>
+    <string name="campo_obrigatorio">Campo obrigatório.</string>
+    <string name="login_txtNome">Nome:</string>
+
+
+</resources>

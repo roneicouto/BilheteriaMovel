@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/menu/cadastros.xml",
+        "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/menu/cadastros.xml"
+    },
+    {
+        "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/menu/menu_list_usuarios.xml",
+        "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/menu/menu_list_usuarios.xml"
+    }
+]
