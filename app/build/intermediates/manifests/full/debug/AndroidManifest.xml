@@ -22,21 +22,28 @@
         <activity
             android:name="com.bilheteriamovel.LoginActivity"
             android:label="@string/title_activity_login"
-            android:theme="@style/AppTheme" />
-        <activity
-            android:name="com.bilheteriamovel.HomeActivity"
-            android:label="@string/title_activity_home" >
+            android:theme="@style/AppTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.bilheteriamovel.ListaEventosActivity" >
+        <activity
+            android:name="com.bilheteriamovel.HomeActivity"
+            android:label="@string/title_activity_home" >
+        </activity>
+        <activity
+            android:name="com.bilheteriamovel.ListEventosActivity"
+            android:label="Lista de Eventos" >
 >
         </activity>
-        <activity android:name="com.bilheteriamovel.ListUsuariosActivity" />
+        <activity
+            android:name="com.bilheteriamovel.ListUsuariosActivity"
+            android:label="Lista de Usuários" >
+        </activity>
         <activity android:name="com.bilheteriamovel.CadUsuarioActivity" />
+        <activity android:name="com.bilheteriamovel.CadEventoActivity" />
     </application>
 
 </manifest>

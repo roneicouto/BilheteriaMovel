@@ -80,6 +80,11 @@ public class LoginActivity extends AppCompatActivity {
         finish();
     }
 
+    private void ChamarCadastroUsuarioAcitivity(){
+        startActivity(new Intent(this, CadUsuarioActivity.class));
+        finish();
+    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
 
@@ -99,5 +104,11 @@ public class LoginActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }*/
+
+    public void cadastrarULogin(CadUsuarioActivity cadUsuarioActivity){
+
+        ChamarCadastroUsuarioAcitivity();
+
+    }
 
 }

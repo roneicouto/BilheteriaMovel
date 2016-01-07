@@ -32,6 +32,9 @@
     <string name="login_valSenha">Senha obrigatório.</string>
     <string name="campo_obrigatorio">Campo obrigatório.</string>
     <string name="login_txtNome">Nome:</string>
+    <string name="evento_lbNome">Evento:</string>
+    <string name="evento_lbBilhetes">Total de Bilhetes</string>
+    <string name="evento_lbRestoBilhetes">Bilhetes Restantes:</string>
 
     <!-- eventos -->
     <item name="evento_edtN_Evento" type="id">Nome:</item>

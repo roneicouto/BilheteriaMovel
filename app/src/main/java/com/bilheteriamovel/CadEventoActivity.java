@@ -54,7 +54,6 @@ public class CadEventoActivity extends AppCompatActivity {
 
         String n_evento  = evento_edtN_Evento.getText().toString();
         String totaltickets = evento_edtTotaltickets.getText().toString();
-        String restickets = evento_edtRestickets.getText().toString();
 
         if (n_evento == null || n_evento.equals("")){
             validacao = false;
@@ -66,17 +65,12 @@ public class CadEventoActivity extends AppCompatActivity {
             evento_edtTotaltickets.setError(getString(R.string.campo_obrigatorio));
         }
 
-        if (restickets == null || restickets.equals("")){
-            validacao = false;
-            evento_edtRestickets.setError(getString(R.string.campo_obrigatorio));
-        }
 
 
         if(validacao){
             evento = new Evento();
             evento.setN_evento(n_evento);
             evento.setTotaltickets(Integer.parseInt(totaltickets));
-            evento.setRestickets(Integer.parseInt(restickets));
 
             //Se for atualizar
             if(idevento > 0){
@@ -93,7 +87,7 @@ public class CadEventoActivity extends AppCompatActivity {
                 }
 
                 finish();
-                startActivity(new Intent(this, ListUsuariosActivity.class));
+                startActivity(new Intent(this, HomeActivity.class));
             }else{
                 Mensagem.Msg(this, getString(R.string.mensagem_erro));
             }
@@ -117,7 +111,7 @@ public class CadEventoActivity extends AppCompatActivity {
                 break;
             case R.id.action_menu_sair:
                 finish();
-                startActivity(new Intent(this, ListUsuariosActivity.class));
+                startActivity(new Intent(this, HomeActivity.class));
                 break;
         }
         return super.onOptionsItemSelected(item);

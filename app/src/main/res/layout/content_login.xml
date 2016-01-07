@@ -75,6 +75,14 @@
             android:text="Entrar"
             android:onClick="logar"/>
 
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/AppForm"
+            android:layout_marginTop="5dp"
+            android:text="Cadastrar-se"
+            android:onClick="cadastrarULogin"/>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

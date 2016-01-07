@@ -16,21 +16,27 @@
         <activity
             android:name=".LoginActivity"
             android:label="@string/title_activity_login"
-            android:theme="@style/AppTheme" />
-        <activity
-            android:name=".HomeActivity"
-            android:label="@string/title_activity_home">
+            android:theme="@style/AppTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ListaEventosActivity">
+
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home">
+        </activity>
+        <activity android:name=".ListEventosActivity"
+            android:label="Lista de Eventos">
 >
         </activity>
-        <activity android:name=".ListUsuariosActivity" />
+        <activity android:name=".ListUsuariosActivity"
+            android:label="Lista de Usuários"> </activity>
         <activity android:name=".CadUsuarioActivity"></activity>
+        <activity android:name=".CadEventoActivity"></activity>
+
     </application>
 
 </manifest>

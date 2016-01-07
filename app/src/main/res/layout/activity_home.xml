@@ -5,10 +5,33 @@
     android:layout_height="match_parent"
     tools:context="com.bilheteriamovel.HomeActivity">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:src="@drawable/dataticket"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PASSE CERTO APP"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:textColor="#0D204B"
+        android:layout_marginTop="125dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Seu passe certo para o estádio"
+        android:textAlignment="center"
+        android:textSize="23dp"
+        android:textColor="#0D204B"
+        android:layout_marginTop="170dp"/>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="IR"
+        android:text="SAIR"
         android:onClick="ir"
         android:layout_marginTop="450dp"/>
 
@@ -18,4 +41,19 @@
         android:text="Lista de Usuários"
         android:onClick="irAListaUsuarios"
         android:layout_marginTop="400dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lista de Eventos"
+        android:onClick="irAListEventos"
+        android:layout_marginTop="300dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cadastro de Eventos"
+        android:onClick="cadastrarEvento"
+        android:layout_marginTop="350dp"/>
+
 </RelativeLayout>

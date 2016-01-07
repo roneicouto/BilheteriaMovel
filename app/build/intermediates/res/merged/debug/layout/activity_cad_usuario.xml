@@ -46,7 +46,7 @@
             android:id="@+id/usuario_edtEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="text"/>
+            android:inputType="textEmailAddress"/>
 
 
     </LinearLayout>

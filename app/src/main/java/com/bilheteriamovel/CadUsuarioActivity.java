@@ -11,6 +11,9 @@ import dao.UsuarioDAO;
 import model.Usuario;
 import util.Mensagem;
 
+/**
+ * Created by mrcoyote on 06/01/16.
+ */
 
 public class CadUsuarioActivity extends AppCompatActivity {
 

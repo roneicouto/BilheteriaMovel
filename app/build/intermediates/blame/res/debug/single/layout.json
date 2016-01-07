@@ -12,10 +12,6 @@
         "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/layout/activity_lista_eventos.xml",
-        "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/layout/activity_lista_eventos.xml"
-    },
-    {
         "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
     },
@@ -58,6 +54,10 @@
     {
         "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
         "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/layout/activity_list_eventos.xml",
+        "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/layout/activity_list_eventos.xml"
     },
     {
         "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
@@ -180,6 +180,10 @@
         "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/layout/activity_cad_usuario.xml"
     },
     {
+        "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/layout/activity_cad_evento.xml",
+        "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/layout/activity_cad_evento.xml"
+    },
+    {
         "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
         "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
     },
@@ -206,6 +210,10 @@
     {
         "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
         "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/layout/eventos.xml",
+        "source": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/src/main/res/layout/eventos.xml"
     },
     {
         "merged": "/home/mrcoyote/AndroidStudioProjects/BilheteriaMovel/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",

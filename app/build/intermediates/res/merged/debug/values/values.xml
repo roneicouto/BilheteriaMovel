@@ -236,6 +236,9 @@
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
+    <item name="evento_edtN_Evento" type="id">Nome:</item>
+    <item name="evento_edtRestickets" type="id">Bilhetes Disponíveis:</item>
+    <item name="evento_edtTotaltickets" type="id">Total de Bilhetes:</item>
     <item name="home" type="id"/>
     <item name="item_touch_helper_previous_elevation" type="id"/>
     <item name="progress_circular" type="id"/>
@@ -274,6 +277,9 @@
     <string name="cadastrar">Cadastrar</string>
     <string name="campo_obrigatorio">Campo obrigatório.</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="evento_lbBilhetes">Total de Bilhetes</string>
+    <string name="evento_lbNome">Evento:</string>
+    <string name="evento_lbRestoBilhetes">Bilhetes Restantes:</string>
     <string name="excluir">Excluir</string>
     <string name="hello_world">Hello world!</string>
     <string name="login_ckbConectado">Manter conectado?</string>
