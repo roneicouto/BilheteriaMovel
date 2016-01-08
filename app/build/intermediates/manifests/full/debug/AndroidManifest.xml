@@ -40,9 +40,17 @@
         <activity
             android:name="com.bilheteriamovel.ListUsuariosActivity"
             android:label="Lista de Usuários" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HomeActivity" />
         </activity>
-        <activity android:name="com.bilheteriamovel.CadUsuarioActivity" />
-        <activity android:name="com.bilheteriamovel.CadEventoActivity" />
+        <activity android:name="com.bilheteriamovel.CadUsuarioActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HomeActivity" />
+        </activity>
+        <activity android:name="com.bilheteriamovel.CadEventoActivity" >
+        </activity>
     </application>
 
 </manifest>

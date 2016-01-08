@@ -4,7 +4,7 @@
     tools:context="com.todolist.app.LoginActivity" >
 
     <item android:id="@+id/action_settings"
-        android:title="@string/action_settings"
+        android:title="SAIR DO APP"
         android:orderInCategory="100"
         app:showAsAction="never" />
 </menu>

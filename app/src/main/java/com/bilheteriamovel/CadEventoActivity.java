@@ -38,8 +38,7 @@ public class CadEventoActivity extends AppCompatActivity {
             Evento model = eventoDAO.buscarEventoPorId(idevento);
             evento_edtN_Evento.setText(model.getN_evento());
             evento_edtTotaltickets.setText(model.getTotaltickets());
-            evento_edtRestickets.setText(model.getRestickets());
-            setTitle("Atualizar usuário");
+            setTitle("Atualizar Evento");
         }
     }
 

@@ -75,6 +75,11 @@ public class ListUsuariosActivity extends AppCompatActivity implements
                 finish();
                 startActivity(new Intent(this, HomeActivity.class));
                 break;
+            case R.id.home:
+                finish();
+                startActivity(new Intent(this, HomeActivity.class));
+                break;
+
         }
 
         return super.onOptionsItemSelected(item);

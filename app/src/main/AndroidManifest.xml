@@ -35,10 +35,18 @@
 
         <activity android:name=".ListUsuariosActivity"
             android:label="Lista de Usuários">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HomeActivity" />
         </activity>
-        <activity android:name=".CadUsuarioActivity"></activity>
+        <activity android:name=".CadUsuarioActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HomeActivity" />
+        </activity>
 
-        <activity android:name=".CadEventoActivity"></activity>
+        <activity android:name=".CadEventoActivity">
+        </activity>
 
     </application>
 

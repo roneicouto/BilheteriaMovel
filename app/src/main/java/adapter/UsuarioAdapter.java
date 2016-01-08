@@ -56,6 +56,8 @@ public class UsuarioAdapter extends BaseAdapter {
 
         TextView txtNome = (TextView) view.findViewById(R.id.usuario_lista_nome);
         txtNome.setText(usuario.getNome());
+        TextView txtEmail = (TextView) view.findViewById(R.id.usuario_lista_email);
+        txtEmail.setText(usuario.getEmail());
 
         return view;
     }

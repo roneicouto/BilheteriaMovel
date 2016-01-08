@@ -31,7 +31,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="SAIR"
+        android:text="LOGOUT"
         android:onClick="ir"
         android:layout_marginTop="450dp"/>
 
@@ -46,7 +46,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Lista de Eventos"
-        android:onClick="irAListEventos"
+        android:onClick="irAListaEventos"
         android:layout_marginTop="300dp"/>
 
     <Button

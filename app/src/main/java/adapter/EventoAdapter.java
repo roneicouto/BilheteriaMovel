@@ -51,10 +51,10 @@ public class EventoAdapter extends BaseAdapter {
         }
 
         TextView txtNome = (TextView) view.findViewById(R.id.evento_lista_nome);
-        //TextView txtTotickets = (TextView) view.findViewById(R.id.evento_lista_totickets);
-        //TextView txtRestickets = (TextView) view.findViewById(R.id.evento_lista_restickets);
         txtNome.setText(evento.getN_evento());
+        //TextView txtTotickets = (TextView) view.findViewById(R.id.evento_lista_totickets);
         //txtTotickets.setText(evento.getTotaltickets());
+        //TextView txtRestickets = (TextView) view.findViewById(R.id.evento_lista_restickets);
         //txtRestickets.setText(evento.getRestickets());
 
         return view;

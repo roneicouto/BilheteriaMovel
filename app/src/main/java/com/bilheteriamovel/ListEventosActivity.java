@@ -64,9 +64,18 @@ public class ListEventosActivity extends AppCompatActivity implements
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
 
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_cadastrar_evento) {
-            startActivity(new Intent(this, CadEventoActivity.class));
+        switch(id) {
+
+            case R.id.action_cadastrar_evento:
+                finish();
+                startActivity(new Intent(this, CadEventoActivity.class));
+                break;
+
+            case R.id.action_menu_sair:
+                finish();
+                startActivity(new Intent(this, HomeActivity.class));
+                break;
+
         }
 
         return super.onOptionsItemSelected(item);

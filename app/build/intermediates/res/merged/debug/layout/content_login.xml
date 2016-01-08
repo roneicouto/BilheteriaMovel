@@ -82,7 +82,7 @@
             style="@style/AppForm"
             android:layout_marginTop="5dp"
             android:text="Cadastrar-se"
-            android:onClick="cadastrarULogin"/>
+            android:onClick="cUHome"/>
 
         <TextView
             android:layout_width="match_parent"
