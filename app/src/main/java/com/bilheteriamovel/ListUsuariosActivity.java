@@ -64,9 +64,17 @@ public class ListUsuariosActivity extends AppCompatActivity implements
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
 
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_cadastrar_usuario) {
-            startActivity(new Intent(this, CadUsuarioActivity.class));
+        switch(id) {
+
+            case R.id.action_cadastrar_usuario:
+                finish();
+                startActivity(new Intent(this, CadUsuarioActivity.class));
+                break;
+
+            case R.id.action_menu_sair:
+                finish();
+                startActivity(new Intent(this, HomeActivity.class));
+                break;
         }
 
         return super.onOptionsItemSelected(item);

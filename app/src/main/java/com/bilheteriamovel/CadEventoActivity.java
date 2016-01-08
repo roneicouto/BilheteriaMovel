@@ -113,7 +113,7 @@ public class CadEventoActivity extends AppCompatActivity {
                 finish();
                 startActivity(new Intent(this, HomeActivity.class));
                 break;
-        }
+            }
         return super.onOptionsItemSelected(item);
     }
 }

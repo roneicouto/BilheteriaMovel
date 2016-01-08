@@ -20,6 +20,12 @@ public class Evento {
         this.restickets = restickets;
     }
 
+    public Evento (Integer _id, String n_evento, Integer totaltickets) {
+        this._id = _id;
+        this.n_evento = n_evento;
+        this.totaltickets = totaltickets;
+    }
+
     //Getters e Setters
 
     public Integer get_id() {

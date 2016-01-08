@@ -32,7 +32,7 @@ public class CadUsuarioActivity extends AppCompatActivity {
         usuario_edtNome  = (EditText) findViewById(R.id.usuario_edtNome);
         edtLogin = (EditText) findViewById(R.id.usuario_edtLogin);
         edtSenha = (EditText) findViewById(R.id.usuario_edtSenha);
-        edtEmail = (EditText) findViewById(R.id.usuario_edtEmail);;
+        edtEmail = (EditText) findViewById(R.id.usuario_edtEmail);
 
         //Modo de edição
         idusuario = getIntent().getIntExtra("USUARIO_ID", 0);
@@ -126,7 +126,7 @@ public class CadUsuarioActivity extends AppCompatActivity {
                 break;
             case R.id.action_menu_sair:
                 finish();
-                startActivity(new Intent(this, ListUsuariosActivity.class));
+                startActivity(new Intent(this, HomeActivity.class));
                 break;
         }
         return super.onOptionsItemSelected(item);
